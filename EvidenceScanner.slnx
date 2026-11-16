@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EvidenceScanner.Cli/EvidenceScanner.Cli.csproj" />
+    <Project Path="src/EvidenceScanner.Core/EvidenceScanner.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EvidenceScanner.Tests/EvidenceScanner.Tests.csproj" />
+  </Folder>
+</Solution>
